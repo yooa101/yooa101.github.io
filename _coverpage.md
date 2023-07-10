@@ -1,6 +1,6 @@
-![logo](_public/favicon.ico) 
+![logo](_public/orange-w.ico) 
 
-# JAVA 学习笔记
+# 桔子的Blog
 
 &nbsp;
 
@@ -10,4 +10,4 @@
 
 <!--background-->
 
-![](_public/img/piano.jpg)
+![](_public/img/.jpg)
