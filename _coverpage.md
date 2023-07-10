@@ -10,4 +10,4 @@
 
 <!--background-->
 
-![](_public/img/.jpg)
+![](_public/img/star.jpg)
